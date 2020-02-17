@@ -12,8 +12,8 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, voluptatum maiore
 
 <hr>
 
-&nbsp;&nbsp;&nbsp;[![](https://img.icons8.com/ios-filled/32/000000/youtube-play.png)](https://www.youtube.com/channel/UC1L00AiTiPEin5dnUCMHgdw "YouTube")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![](https://img.icons8.com/material/32/000000/codepen.png)](https://codepen.io/lorenzecode "CodePen")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.icons8.com/ios-filled/32/000000/youtube-play.png)](https://www.youtube.com/channel/UC1L00AiTiPEin5dnUCMHgdw "YouTube")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![](https://img.icons8.com/material/32/000000/codepen.png)](https://codepen.io/lorenzecode "CodePen")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://img.icons8.com/material-rounded/32/000000/github.png)](https://github.com/lorenzecode "GitHub")
 
 [YouTube](https://www.youtube.com/channel/UC1L00AiTiPEin5dnUCMHgdw)&nbsp;&nbsp;
