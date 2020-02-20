@@ -2,6 +2,7 @@
 
 $white: #ffffff;
 $black: #191919;
+$grey: #3c4043;
 $blueLight: #1a93ec;
 $blueDark: #3a47d5;
 $redLight: #ff6c47;
@@ -17,9 +18,12 @@ $purpleDark: #b721ff;
     box-sizing: border-box;
     font-weight: normal;
 }
+html {
+    scroll-behavior: smooth;
+}
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    color: $black;
+    color: $white;
     text-align: center;
     overflow-x: hidden;
     position: relative;
@@ -31,4 +35,88 @@ a {
 
 // Layout
 
+header,
+section,
+footer {
+    display: grid;
+    place-content: center;
+}
+header,
+footer {
+    height: 20vh;
+    background: $black;
+}
+section {
+    height: 100vh;
+}
+footer {
+    position: relative;
+    z-index: 1;
+}
+
+.section-one {
+    background: linear-gradient(to bottom, $blueLight 0%, $blueDark 100%);
+}
+.section-two {
+    background: linear-gradient(to bottom, $redLight 0%, $redDark 100%);
+}
+.section-three {
+    background: linear-gradient(to bottom, $purpleLight 0%, $purpleDark 100%);
+}
+
 // Component scroll
+
+.scroll-bottom,
+.scroll-top {
+    width: 0;
+    position: absolute;
+    bottom: 0;
+    right: 80px;
+
+    > .button {
+        width: 56px;
+        height: 56px;
+        background: #f2f3f5;
+        border-radius: 50%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 
+            0px 3px 5px -1px rgba(0, 0, 0, .2),
+            0px 6px 10px 0px rgba(0, 0, 0, .14),
+            0px 1px 18px 0px rgba(0, 0, 0, .12);
+        position: sticky;
+
+        &::after {
+            content: "";
+            width: 12px;
+            height: 12px;
+            background: transparent;
+            border-top: 2px solid $grey;
+            border-left: 2px solid $grey;
+        }
+    }
+}
+.scroll-bottom {
+    top: calc(100vh - 76px);
+
+    > .button {
+        top: calc(100vh - 156px);
+
+        &::after {
+            transform: translateY(-2px) rotate(-135deg);            
+        }
+    }
+}
+.scroll-top {
+    top: calc(100vh + 76px);
+    z-index: 2;
+
+    > .button {
+        top: calc(100vh - 76px);
+
+        &::after {
+            transform: translateY(4px) rotate(45deg);
+        }
+    }
+}

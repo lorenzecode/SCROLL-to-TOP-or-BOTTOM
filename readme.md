@@ -2,11 +2,15 @@
 
 ### Using Only < HTML | CSS />
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit, voluptatum maiores laudantium laborum commodi eveniet nihil praesentium ducimus debitis voluptate.
+Code in my CodePen and GitHub
 
-## Video [YouTube](https://www.youtube.com/channel/UC1L00AiTiPEin5dnUCMHgdw "YouTube")
+Thanks for watching
 
-[![](https://lh3.googleusercontent.com/7w9gGKY0pbCgg9Mf3M0KkeT019nQjUyFeYOZElVrZuafMnGPwVUqEz6SsmekDsRnrgzGgr22EmATo9d8nrnayG5F1dSsgQ_qctaTrvAePclt_g4OMuYh4_fGrlTNA6eDqlNtZ92ZPO-a3KvAfvRYUUUAEoXxeJqKIsRoQHU5iegCnWJBulW8my8-gPzm7LaDDMIY3PeUd3kUke9OMHLp_8aA8iLhpZ37mZLsXAnwlWWTJFqxTKDRfbbC3MyoAw8beD6FI0UzqgGjZj633alfAvJ6DftZO0kTaXvXmFX-BMhxerRsHvcknt9f_ZV_zuREYAORJjvZhrZADoAzdwR4ZmS54hFRKUN5wSwID4oz8tmPvClixfWxAkRIlszcJ3YeIX26jYXFq8WCllTjDTW5n9RWiZnDdr2ZwpZEfI73wj4W8rge_R4zzP_bGjWS-mW-KtGQ0y7m1wv-qbn0Dy0A1bsko3WVnxHeD3t42PaAIDmunSJfgUJPE8lnQpYX0omxYlVzaARJuvALpuBdoz-yg0uL0CgqMj7rF-vxbBdcRndPZ_asNo8WyCXmzYugGTaECsiMKeekIqPuS66SuJ9dKxBxGzlOSAAHvHrAMKR6_cOpVF0DvvYGktnJhEQFVcJlcvAwEJisrDi3zUM4ZE5zDqMSEmg6OHkNnyFV_YSYVMHotSkwzNUa=w1158-h652-no)](https://www.youtube.com/channel/UC1L00AiTiPEin5dnUCMHgdw "YouTube")
+The best is yet to come!
+
+## Video [YouTube](https://www.youtube.com/watch?v=VPRdSDTncK8 "YouTube")
+
+[![](https://lh3.googleusercontent.com/t-lRYiBYsiiYRtD041G1Du4U9z9K3NEI9PBx4b5pNk24KRTuQfwdL5OdpEEsPK8-LilyHou8pDXHsq1xSnmWiZtaXp4O69peR32c1f2cx1dB5fmAjI5KCm3qYpKfkFGr5sFVm8f9rP89lWFDaOVIqlQYJjgvFmceR9GnyCcfgZDwhgM-iNwCgw5zsHIs1BKoTx-M6ga1wpjmkqNxNiTVW9aXQgQCy9XsFy7-stEttH1gRpn-QEAm0xN-jbFTUxDIMxH7elKrenvPd3c38leT-D3HxJzqPkHu02h5YemlQB2B38jpZKwLRUxOqby5mRoub4de2ARTV0n5UOOOYYG-ao5cWSHbzPS2Dp9g1cwnN_sNh-n2HhzJl-4H5pdqckpXg-BQ_I1qF2V8gmtsJVaz0BQTvjmtiYDHVJpbcSPUoZrbEx7qWo0xTv3QIw7dGZ-SXFGsLxmxd-dmpVrOrteuf8BLbBKIctavsmJUyAPJqbjzeRHvUW6UWVs7SXJgRzoZTEjsmdh1MiKSedv2sQwLOhHV7mWJlmtkGFEzdANKL4R8ahB_P-92WPn_pQBniLRrtw08tOL6zpuumjsEciLLl2qjyT0yb-D8og93Me7VfuYi-rlCsaMCxraJAfxsA1m056h5MYhOWGkhHsxOW_EJBreU6r8idSpjz0t4DgCyl7M1-KrlL6Tf=w1666-h937-no "YouTube")
 
 ### Subscriber
 
